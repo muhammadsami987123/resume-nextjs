@@ -42,7 +42,7 @@ Resume Next.js Web App is a modern, fully responsive, and customizable digital r
 
 ## 🌐 Live Demo
 
-[Live Demo on Vercel](https://your-vercel-demo-link.vercel.app)
+[Live Demo on Vercel](https://resume--profile.vercel.app/)
 
 ---
 
